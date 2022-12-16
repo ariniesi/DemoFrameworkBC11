@@ -40,5 +40,4 @@ public class CPs {
         registerPage.cerrarBrowser();
     }
 
-
 }

@@ -144,6 +144,10 @@ public class BaseClass {
         this.driver.quit();
     }
 
+    public void retornarHola (){
+        return "hola"
+    }
+
 }
 
 
